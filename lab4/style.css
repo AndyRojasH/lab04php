@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: black;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+label{
+	color: lawngreen;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'VT323', monospace;
+}
+h4{
+	color: lawngreen;
+	font-size: 50px;
+	font-family: 'VT323', monospace;
+	text-align: center;
+}
+input {
+  padding: 8px 20px;
+  margin: 6px 0;
+  text-align: center;
+}
+a{ 
+	color: lawngreen ;
+	font-family: 'VT323', monospace;
+	font-size: 40px;
+	text-align: center;
+}
+form{
+	text-align: center;
+}
+.col-sm{
+	text-align: center;
+}
+.container{
+	text-align: center;
+}
+h1{
+	color: lawngreen;
+	font-size: 200px;
+	font-family: 'VT323', monospace;
+	text-align: center;
+}
+
